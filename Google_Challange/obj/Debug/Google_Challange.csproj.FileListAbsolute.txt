@@ -1,0 +1,7 @@
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\Gold Badge\Coding Challenges\Google_Challange\Google_Challange\bin\Debug\Google_Challange.exe.config
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\Gold Badge\Coding Challenges\Google_Challange\Google_Challange\bin\Debug\Google_Challange.exe
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\Gold Badge\Coding Challenges\Google_Challange\Google_Challange\bin\Debug\Google_Challange.pdb
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\Gold Badge\Coding Challenges\Google_Challange\Google_Challange\obj\Debug\Google_Challange.csproj.AssemblyReference.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\Gold Badge\Coding Challenges\Google_Challange\Google_Challange\obj\Debug\Google_Challange.csproj.CoreCompileInputs.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\Gold Badge\Coding Challenges\Google_Challange\Google_Challange\obj\Debug\Google_Challange.exe
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\Gold Badge\Coding Challenges\Google_Challange\Google_Challange\obj\Debug\Google_Challange.pdb

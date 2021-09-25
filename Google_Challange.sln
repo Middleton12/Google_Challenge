@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_Challange", "Google_Challange\Google_Challange.csproj", "{09299863-315C-4E3C-92F6-0F18F167118D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09299863-315C-4E3C-92F6-0F18F167118D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09299863-315C-4E3C-92F6-0F18F167118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09299863-315C-4E3C-92F6-0F18F167118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09299863-315C-4E3C-92F6-0F18F167118D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15090770-3AF8-4527-8907-3E3DDF713469}
+	EndGlobalSection
+EndGlobal
